@@ -1,10 +1,10 @@
 # Política de Privacidade - Contador de Rodízio
 
-**Última atualização:** Outubro de 2024
+**Última atualização:** Outubro de 2025
 
 ## Introdução
 
-Bem-vindo ao **Contador de Rodízio**! Este aplicativo foi desenvolvido para tornar suas experiências em rodízios mais divertidas e transparentes, permitindo que você e seus amigos acompanhem o consumo individual e avaliem se o valor pago valeu a pena.
+Bem-vindo ao **Contador de Rodízio**! Este aplicativo foi desenvolvido para tornar suas experiências em rodízios mais divertidas e transparentes, permitindo que você e seus amigos acompanhem o consumo individual e avaliem se o valor pago valeu a pena, além de competirem entre si.
 
 Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e protegemos suas informações ao utilizar nosso aplicativo.
 
@@ -14,7 +14,6 @@ Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e pro
 - **Nome ou apelido:** Para identificação durante as sessões de contagem
 - **Dados de consumo:** Registros dos itens consumidos durante o rodízio
 - **Informações de preço:** Valor pago pelo rodízio para cálculo de custo-benefício
-- **Dados de grupos:** Informações sobre os participantes da sessão
 
 ### 1.2 Informações Coletadas Automaticamente
 - **Dados de uso:** Como você interage com o aplicativo
@@ -44,22 +43,11 @@ Podemos divulgar informações apenas quando:
 - Necessário para proteger nossos direitos legais
 - Com seu consentimento explícito
 
-## 4. Armazenamento e Segurança de Dados
+## 4. Armazenamento
 
 ### 4.1 Onde Armazenamos
 - Os dados são armazenados localmente em seu dispositivo
-- Dados sincronizados (se habilitado) são armazenados em servidores seguros
 
-### 4.2 Medidas de Segurança
-- Utilizamos criptografia para proteger dados sensíveis
-- Implementamos controles de acesso rigorosos
-- Realizamos backups regulares para prevenir perda de dados
-- Monitoramos constantemente possíveis vulnerabilidades
-
-### 4.3 Retenção de Dados
-- Mantemos seus dados enquanto sua conta estiver ativa
-- Você pode solicitar a exclusão de seus dados a qualquer momento
-- Dados de sessões antigas podem ser automaticamente removidos após período configurado
 
 ## 5. Seus Direitos
 
@@ -78,12 +66,7 @@ O Contador de Rodízio não é destinado a menores de 13 anos. Não coletamos in
 
 ## 7. Cookies e Tecnologias Similares
 
-O aplicativo pode utilizar tecnologias como cookies e armazenamento local para:
-- Manter sua sessão ativa
-- Lembrar suas preferências
-- Melhorar o desempenho do aplicativo
-
-Você pode gerenciar essas configurações através das opções do aplicativo.
+O aplicativo não possui tais tecnologias, no momento.
 
 ## 8. Alterações nesta Política
 
@@ -106,7 +89,7 @@ Este aplicativo está em conformidade com a Lei Geral de Proteção de Dados (LG
 
 Se você tiver dúvidas, preocupações ou solicitações relacionadas a esta Política de Privacidade ou ao tratamento de seus dados pessoais, entre em contato conosco:
 
-**E-mail:** [seu-email@exemplo.com]
+**E-mail:** elielfrprado@gmail.com
 
 **Tempo de resposta:** Nos comprometemos a responder todas as solicitações em até 15 dias úteis.
 
